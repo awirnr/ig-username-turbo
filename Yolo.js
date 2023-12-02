@@ -1,1 +1,1 @@
-console.log("for the yolo badges")
+console.log(" the yolo badges")
